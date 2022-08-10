@@ -258,8 +258,8 @@ By default, an `<img>` element's `height` and `width` values will be the same as
 
 ~~~css
 img {
-  height: auto;
-  width: 500px;
+  height: 500px;
+  width: auto;
 }
 ~~~
 
